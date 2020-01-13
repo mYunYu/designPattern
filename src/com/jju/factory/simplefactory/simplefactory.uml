@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="344.0" y="196.0">com.jju.factory.simplefactory.pizza.CheesePizza</node>
+    <node x="172.0" y="196.0">com.jju.factory.simplefactory.pizza.GreekPizza</node>
+    <node x="172.0" y="0.0">com.jju.factory.simplefactory.pizza.Pizza</node>
+    <node x="0.0" y="196.0">com.jju.factory.simplefactory.pizza.PepperPizza</node>
+    <node x="0.0" y="294.0">com.jju.factory.simplefactory.order.OrderPizza</node>
+    <node x="278.0" y="294.0">com.jju.factory.simplefactory.order.SimpleFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.jju.factory.simplefactory.pizza.PepperPizza" target="com.jju.factory.simplefactory.pizza.Pizza">
+      <point x="0.0" y="-26.5" />
+      <point x="76.0" y="171.0" />
+      <point x="197.33333333333334" y="171.0" />
+      <point x="-50.66666666666666" y="73.0" />
+    </edge>
+    <edge source="com.jju.factory.simplefactory.pizza.GreekPizza" target="com.jju.factory.simplefactory.pizza.Pizza">
+      <point x="0.0" y="-26.5" />
+      <point x="0.0" y="73.0" />
+    </edge>
+    <edge source="com.jju.factory.simplefactory.pizza.CheesePizza" target="com.jju.factory.simplefactory.pizza.Pizza">
+      <point x="0.0" y="-26.5" />
+      <point x="420.0" y="171.0" />
+      <point x="298.66666666666663" y="171.0" />
+      <point x="50.66666666666663" y="73.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="263.5" y="275.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Properties</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
