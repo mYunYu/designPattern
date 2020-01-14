@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="172.0">com.jju.adapter.interfaceadapter.AbsAdapter</node>
+    <node x="0.0" y="0.0">com.jju.adapter.interfaceadapter.Interface</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.jju.adapter.interfaceadapter.AbsAdapter" target="com.jju.adapter.interfaceadapter.Interface">
+      <point x="0.0" y="-61.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="58.5" y="55.0" />
+  <SelectedNodes>
+    <node>com.jju.adapter.interfaceadapter.AbsAdapter</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
